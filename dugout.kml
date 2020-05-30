@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dugout" id="dugout">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="rotate" type="float"></SimpleField>
+</Schema>
+<Folder><name>dugout</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5280246669025,47.3686976109174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5230883920485,47.3722976388905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6095152838046,47.2832864695897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5748829818767,47.2571470700177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5807629563351,47.2589756522106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">311</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.576625196531,47.245235020347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5761896428675,47.2418734564492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5490038350319,47.2219221140435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5532141871132,47.2210813711287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5363001865106,47.213217302594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5361550019561,47.2157893283627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5429060837417,47.2141076334109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">273</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5349209332426,47.2088148902991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">290</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5124173272906,47.1861539648441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5058114300596,47.179324091268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5102395589727,47.1761068155554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5136513960041,47.1744733543444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5095136362001,47.1742258558111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.501528485701,47.1590767364251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5010929320374,47.1569475902305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5002944169875,47.1545212492183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5035610694644,47.1556601578614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5014558934237,47.1516986306351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4950677730244,47.1518471932687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4897685367841,47.1557096750714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4918011205475,47.1579379014647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4942692579745,47.1569475902305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4965196185697,47.1561553278715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4963744340152,47.1548183581887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4903492750022,47.1511043759221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4884618757934,47.1493710948205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">180</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4877359530207,47.1451119339664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4808396866806,47.1493215716676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">291</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4698056605364,47.145409095867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4695152914273,47.1440718541513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4703138064773,47.1365430469189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4833804163848,47.1361467641905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4912203823294,47.1406047735521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4783715492536,47.1285177424729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4649419779597,47.1261396404679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4682086304366,47.1253469160258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4679182613275,47.1216804108571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4637805015235,47.1223245450409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4777908110355,47.1202434678609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4282102856639,47.3169630792976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4673012269708,47.4146656773516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4706404717249,47.4140743874137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4765930384606,47.4116106074345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4713663944976,47.4109207282574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4673012269708,47.4121033727084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5222898769986,47.3894560173901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5247580144256,47.3865966778221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5314365039339,47.3861036724673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5285328128433,47.3841316046538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5205476623442,47.3807789190089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5386957316603,47.3790038809332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5422074180346,47.3801193995739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5434868219598,47.3780177226875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.547116435823,47.3762425910782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5566986164219,47.3734811557252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5513993801816,47.3589319066844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5479197550514,47.3538210033335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5555371399857,47.3558242556916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5585134233535,47.3542950264884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5617800758304,47.3526670883388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5649741360301,47.3514831015836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5695665058518,47.3510116570418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5617074835532,47.3491643834362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5653370974164,47.3473882746824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.570708925934,47.3480296542248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.574846685738,47.3470429132192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5719429946475,47.3416155059227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5755726085107,47.3392963516077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5843562740597,47.3384081377038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5797885826187,47.344728392608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5829454004437,47.3422761828242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5870041662188,47.3407945838729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5897100100689,47.3400282231718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5930171525523,47.3384954681914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5945955614648,47.3365028197841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5971510806565,47.335480919456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5996006522852,47.3399378300773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6030889046608,47.3353276326905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6046095194165,47.3384081377038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6059887726845,47.3405299570889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6134657772427,47.3355953611572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6266412755662,47.2883725042252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6232294385348,47.2803208830204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6242457304165,47.2780978256096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.613937627045,47.2841739599006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6336101341836,47.2766157351233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6008710171374,47.2638680326473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6121228201133,47.2614960262155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6000725020875,47.2606559149608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5863525616845,47.2581849217626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">320</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5794562953444,47.2502769637675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5758266814811,47.2377700802342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5511090110726,47.2184106870009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5537223330541,47.2191030995871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5357194482925,47.2001079137711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5219995078895,47.1792745962039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5145225033313,47.1767007889153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5123447350134,47.1730378466944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.507844013823,47.1717508066408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5112558508544,47.1715032953401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5105299280818,47.1654636599322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5099491898636,47.157987416539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4741611971723,47.1514015041143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4760485963811,47.1507577242519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4711849138044,47.1408028985724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4788071029172,47.1309452779216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4782989569763,47.1246532723879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4910751977749,47.1273287048431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.488098914407,47.1239100726766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4847596696529,47.1199461644344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.457900527065,47.1033440708708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4606590336011,47.1022040344647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4737982357859,47.1050292970827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.445269470821,47.0954624475524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4536175827064,47.0964539112597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.446648724089,47.0886208417054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.447737608248,47.0905048503886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4533272135974,47.0916947160595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4553597973608,47.0921409087899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4593523726103,47.0938760669845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4578279347878,47.0913476746685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4548516514199,47.0886704217404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4541983209245,47.0867367659648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4568116429061,47.0869350928848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.46174791776,47.0819271106727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.46254643281,47.0849517902487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4664664157822,47.0836626036905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4690071454865,47.0866376022262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4687893686547,47.0914468295838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4664664157822,47.0886208417054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4611671795419,47.0788030798816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4630545787508,47.076819472602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4522383294384,47.0733479810672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4661034543959,47.0784559539715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4165229290243,47.0873813257382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.418918474174,47.0803403244161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.418918474174,47.077513743602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4163777444698,47.0769186547307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4293717621001,47.0802411486962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4300250925955,47.0780096458863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3961970913902,47.0828692425126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3917689624771,47.076819472602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3988104133718,47.0808857875556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4012059585215,47.0820758694462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4018592890169,47.0785551330352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4038918727803,47.0799932085835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5920147593111,47.2622125810978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4041459457507,47.4274753190122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#dugout">
+		<SimpleData name="rotate">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4331844595763,47.4235466752009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4265769594254,47.3633957497205</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

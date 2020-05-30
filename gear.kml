@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gear" id="gear">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="rotate" type="float"></SimpleField>
+</Schema>
+<Folder><name>gear</name>
+  <Placemark>
+      <Point><coordinates>35.455831647163,47.4044157089204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4606953297397,47.4038243004075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4273028821981,47.4277708891094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4416761530964,47.4212679612076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4651234586528,47.4015571832249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4687530725161,47.4026414689075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4800774677693,47.4005714494833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.483271527969,47.3988956621325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4892966869819,47.3984520595181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.492345562627,47.39869850425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4952492537176,47.3944594855367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4996773826307,47.3955932103754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4952492537176,47.3929313823951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5062106875845,47.3846985817532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.511292146993,47.3806556544187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5133247307564,47.3774999821794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5185513747195,47.376119315817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5229795036326,47.3745906781618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5494030925569,47.3776972183753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5543393674109,47.3759713851208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4914744552999,47.3649740342182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.427012513089,47.3611268825169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4277384358616,47.3580686887702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4302791655659,47.3534810637298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4323843416066,47.3508664312303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4298436119023,47.3468208939351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4287547277434,47.3440579086858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3928215504975,47.3295004947766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3951445033699,47.3270820925712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.3995000400058,47.3291056612104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4065414909004,47.3316720263056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4113325811999,47.3328564601839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4079933364457,47.3295004947766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4225843841759,47.3323135979741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4183740320945,47.3302407997087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4699508450909,47.3105945053885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4692975145956,47.3040276477849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4646516088506,47.2958302678092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.479024879749,47.2992377678016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4796056179671,47.2961759662848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4774278496492,47.2932621507997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4640708706325,47.2880761473896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4682812227139,47.2933115388487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4633449478599,47.2841739599006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4662486389505,47.2846185275248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4746693431131,47.2853594652114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.466393823505,47.2808148830155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">210</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4703863987545,47.2790858627283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4708219524181,47.2748371714031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4884618757934,47.2780484232664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.426322886455,47.2764675237774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4279925088321,47.2739972731824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4420028183442,47.1967682088818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4409865264624,47.1937004417288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4417850415124,47.1913252736327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4446161403257,47.1871684720899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4456324322074,47.1859312655203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4462131704255,47.1848919895787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4464309472573,47.1840011653336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4484635310207,47.1808336684205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4525286985475,47.1800912588245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4568116429061,47.1791508583407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4559405355789,47.1764780496888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4526012908248,47.1742011058939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4559405355789,47.1706864998129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4552146128063,47.1650428399123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4557953510244,47.1627158921892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4576827502333,47.1600917642755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4597879262739,47.1580121740587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4595701494421,47.1567742838551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4738708280632,47.1372613015114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4825093090577,47.1387968484235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4918011205476,47.1481577642078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4417850415124,47.050752931466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4385909813127,47.0440047917592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4416398569578,47.0354691495446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4420754106214,47.0314986152249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4407687496306,47.0259393677834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4407687496306,47.0192873597637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4580457116196,47.0765467215333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4643612397416,47.0871582097818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4575375656787,47.0945949015712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4597879262739,47.0978667149486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4629093941963,47.0957351009485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4656679007324,47.0933059498527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4692975145956,47.0969744224561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4714752829135,47.0987589925812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4659582698414,47.1046079955624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.458989411224,47.109465150623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4719834288544,47.1089695420587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.479024879749,47.1112492996624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4798959870762,47.1074826922191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4795330256899,47.1178897699676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4801500600466,47.1232411840038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4815293133146,47.1306232643267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4876996568821,47.1288893112474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4885707642093,47.1323076214239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5053395802574,47.1587053798977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5086062327343,47.1687558419574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5035247733258,47.1690033661416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5001129362944,47.1636070757753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5128891770929,47.1664290578918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5149943531336,47.1688548517703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.510711408775,47.1543974533207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5139780612519,47.185881776654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5176802673923,47.1789033817437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5152121299653,47.1748940991876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5195676666012,47.1848919895787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.519785443433,47.181823531633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5244313491779,47.1852879066372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5141232458064,47.1723200782277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5227617268009,47.202754788498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5385868432445,47.2134398866155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5407646115624,47.2178419127131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5388046200763,47.1981041162193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5613082260283,47.2221446613932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5709629989045,47.2302546347245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5744474282131,47.2324797139044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5784400034627,47.2416757116409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5781496343536,47.237275675974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5817792482169,47.236286853528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.591434021093,47.2528966059983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5992730938316,47.2595686454131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6039194118254,47.2589257640032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6241731381393,47.240044280047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.6309968122022,47.2414285274973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.6417404692373,47.2495360934812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6513218253383,47.2604094785082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5796014798989,47.2466191313335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5774778900722,47.2558930623044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5820555321537,47.2575750139107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5868511571915,47.2664785679683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.6619099551319,47.2711770594546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6947527205424,47.2842317129684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.603999149751,47.2635603467915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6073415550804,47.2638571224404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6166421612143,47.2690504253128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.635025390526,47.2750839047607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6117738751911,47.2862588496306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6159155513601,47.2844294858397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6204205324562,47.2834406140435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6202025495,47.2803749932767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.624344225669,47.2815617063897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6234722938439,47.2877420708388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6237629377856,47.2914005042305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6194759396458,47.2891758115615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6089400967597,47.2917465590721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6144623316517,47.2924386619203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6154069244622,47.2967393824795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6305204094298,47.2965910876291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6295031556339,47.2936745371962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6308110533715,47.2901151377288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6348800685551,47.2878409507648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.637786507972,47.2862588496306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6093034016868,47.2976291427941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6139537047537,47.2999523348152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6139537047537,47.3037087684226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6164241782581,47.3063776501561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5996394906257,47.3326638303874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6002207785091,47.3292552752182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6098846895701,47.3313794732686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6147529755934,47.3299468840212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6131544339141,47.3268345726488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6157702293893,47.3217457931067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6085767918326,47.3362203476209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6055250304449,47.3360721642145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6079228429638,47.3385912252181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6059609963574,47.3417522287288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5960791023401,47.3421473407786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5996394906257,47.3420979519351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6016739982175,47.3406656552501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5985495758444,47.3377021586714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5946258826316,47.340122360073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5843806836872,47.3454069016639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5808202954016,47.3470859903618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5875777670458,47.3437771465345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6146076536225,47.3357757961467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5413653803177,47.3417028395133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5440538367783,47.3484687285191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5455070564868,47.3417522287288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5488494618161,47.3405668747272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.5519738841893,47.3375045862822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.569339859705,47.3451105863151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5714470282822,47.3489625553103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5661427763464,47.3519747955148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5483408349182,47.3578012606028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5524825110872,47.3592330898976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.557278136125,47.3565175191354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5621464221483,47.3550362394488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#gear">
+		<SimpleData name="rotate">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5736995188303,47.3428881678528</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

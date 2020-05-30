@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mortar" id="mortar">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="rotate" type="float"></SimpleField>
+</Schema>
+<Folder><name>mortar</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4580820077581,47.0815028692474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.462437544394,47.094007758835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4631634671666,47.0921297414294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.461058291126,47.0999873204442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4491531576546,47.0984554306225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4492983422091,47.0965281517922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4461042820095,47.0926733848575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4506050031999,47.08906546559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4614212525123,47.0876321147605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4707130640021,47.1046815470229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4703501026158,47.1069049835675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4706404717249,47.1122902560571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4747782315289,47.1106105047633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4755041543016,47.1125372738348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4804404291556,47.1145627763641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4932892622314,47.1509099039515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4955396228266,47.1532795059287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5104210396658,47.1560439080347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5143410226381,47.15920304864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5080980867933,47.1531807746223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5149217608562,47.1609799826901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.515429906797,47.162904927514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.5279157784865,47.1891068522967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6103080131817,47.2655168677853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4591708919171,47.4019420930756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4821100515326,47.3958491053286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.4853041117323,47.3950628620369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4336910025973,47.3196765135354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.4332554489337,47.3177080436377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mortar">
+		<SimpleData name="rotate">117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.6079850603093,47.2665858252183</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
