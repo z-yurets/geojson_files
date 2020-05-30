@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss">
+  <channel>
+    <title>title</title>
+    <description>channel_description</description>
+    <link>channel_link</link>
+    <item>
+      <title>Feature 1</title>
+      <ogr:rotarion>74</ogr:rotarion>
+      <georss:point>47.1902414834622 35.4558316471629</georss:point>
+    </item>
+    <item>
+      <title>Feature 2</title>
+      <ogr:rotarion>82</ogr:rotarion>
+      <georss:point>47.1845187485177 35.4596064455807</georss:point>
+    </item>
+    <item>
+      <title>Feature 3</title>
+      <ogr:rotarion>83</ogr:rotarion>
+      <georss:point>47.2215082889202 35.3903534130704</georss:point>
+    </item>
+    <item>
+      <title>Feature 4</title>
+      <ogr:rotarion>75</ogr:rotarion>
+      <georss:point>47.2362968838647 35.4090822206046</georss:point>
+    </item>
+    <item>
+      <title>Feature 5</title>
+      <ogr:rotarion>78</ogr:rotarion>
+      <georss:point>47.2251565257151 35.4163414483311</georss:point>
+    </item>
+    <item>
+      <title>Feature 6</title>
+      <ogr:rotarion>90</ogr:rotarion>
+      <georss:point>47.1794861786909 35.4938700004495</georss:point>
+    </item>
+    <item>
+      <title>Feature 7</title>
+      <ogr:rotarion>90</ogr:rotarion>
+      <georss:point>47.1728740383955 35.4909663093589</georss:point>
+    </item>
+    <item>
+      <title>Feature 8</title>
+      <ogr:rotarion>98</ogr:rotarion>
+      <georss:point>47.1369369778382 35.4112599889226</georss:point>
+    </item>
+    <item>
+      <title>Feature 9</title>
+      <ogr:rotarion>95</ogr:rotarion>
+      <georss:point>47.1356530618994 35.4612034756805</georss:point>
+    </item>
+    <item>
+      <title>Feature 10</title>
+      <ogr:rotarion>89</ogr:rotarion>
+      <georss:point>47.1094741723552 35.4533635097359</georss:point>
+    </item>
+    <item>
+      <title>Feature 11</title>
+      <ogr:rotarion>97</ogr:rotarion>
+      <georss:point>47.3065355879234 35.4366672859651</georss:point>
+    </item>
+    <item>
+      <title>Feature 12</title>
+      <ogr:rotarion>93</ogr:rotarion>
+      <georss:point>47.3250402217997 35.4469753893367</georss:point>
+    </item>
+    <item>
+      <title>Feature 13</title>
+      <ogr:rotarion>90</ogr:rotarion>
+      <georss:point>47.3276972700457 35.4495887113182</georss:point>
+    </item>
+    <item>
+      <title>Feature 14</title>
+      <ogr:rotarion>95</ogr:rotarion>
+      <georss:point>47.3315349926671 35.4519116641907</georss:point>
+    </item>
+  </channel>
+</rss>
